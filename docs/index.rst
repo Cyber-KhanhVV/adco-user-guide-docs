@@ -1,9 +1,8 @@
-Welcome to My ERP Docs!
-=========================
+Hướng dẫn sử dụng hệ thống ADCO
+===============================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Nội dung
+   :caption: Phân hệ
 
-   introduction
-   login
+   ke-toan/index
