@@ -6,7 +6,7 @@ Phiếu kế toán
 
 Truy cập menu: **Kế toán → Kế toán tổng hợp → Phiếu kế toán**
 
-.. image:: ../source/images/duong_dan_phieu_ke_toan.png
+.. image:: /docs/source/images/duong_dan_phieu_ke_toan.png
    :alt: Đường dẫn đến Phiếu kế toán
    :align: center
    :width: 500px
@@ -14,7 +14,7 @@ Truy cập menu: **Kế toán → Kế toán tổng hợp → Phiếu kế toán
 2. Giao diện tính năng
 -----------------------
 
-.. image:: ../source/images/giao_dien_phieu_ke_toan.png
+.. image:: /docs/source/images/giao_dien_phieu_ke_toan.png
    :alt: Giao diện tính năng Phiếu kế toán
    :align: center
    :width: 700px
