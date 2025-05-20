@@ -1,5 +1,5 @@
-project = 'My ERP Docs'
-author = 'Your Name'
+project = 'ADCo ERP User Guide'
+author = 'khanhvv'
 release = '1.0'
 
 extensions = ['myst_parser']
